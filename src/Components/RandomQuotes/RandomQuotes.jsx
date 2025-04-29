@@ -30,8 +30,8 @@ const random = () =>{
       <div id="text">{quote.text}</div>
       <div id="author"> {quote.author} </div>
       <div id="new-quote"> </div>
-      <div id="tweet-quote">
-        <img src={twitter} alt="icon twitter" /> </div>
+      <a href="twitter.com/intent/tweet" id="tweet-quote">
+        <img src={twitter} alt="icon twitter" /> </a>
       <button  onClick={()=> {random()} } >New quote</button>
     </div>
   )
