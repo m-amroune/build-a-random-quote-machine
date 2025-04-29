@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/m-amroune/build-a-random-quote-machine/static/css/main.f855e6bc.css",
+    "main.js": "/m-amroune/build-a-random-quote-machine/static/js/main.b396ebbf.js",
+    "index.html": "/m-amroune/build-a-random-quote-machine/index.html",
+    "main.f855e6bc.css.map": "/m-amroune/build-a-random-quote-machine/static/css/main.f855e6bc.css.map",
+    "main.b396ebbf.js.map": "/m-amroune/build-a-random-quote-machine/static/js/main.b396ebbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b396ebbf.js"
+  ]
+}
